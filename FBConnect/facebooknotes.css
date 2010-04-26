@@ -1,0 +1,46 @@
+#previewImport{
+	left:0;
+	top:65px;
+}
+#fbNotes{
+	
+}
+#fbNotes ul{
+	max-height:150px;
+	min-width:200px;
+	overflow:auto;
+	list-style-type:none;
+	padding:0px;
+	margin:4px;
+}
+.fbNote{
+	padding:0px 0px 0px 5px;
+	margin:2px 6px 0px 0px;
+	border:1px solid rgb(148, 163, 196);
+}
+.info{
+	background:url(note.gif) no-repeat left;
+	padding:0px 0px 0px 20px;
+	margin:0px;
+	font-size:10px;
+	width:90%;
+}
+.info p{
+	margin:2px;
+	padding:0px;
+}
+.import{
+	padding:0px;
+	margin:4px 4px 0px 0px;
+	float:right;
+}
+.floatLeft{
+	float:left;
+}
+.important{
+	font-size:11px;
+	font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+	color:#900;
+	padding:10px;
+}
+
